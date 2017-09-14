@@ -5,4 +5,5 @@ Mack was here
 
 This line was just added to my README!
 
+<<<<<<< HEAD
 This my local conflict
